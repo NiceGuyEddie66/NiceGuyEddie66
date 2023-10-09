@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiceGuyEddie66
+- 👋 Hi, I’m @NiceGuyEddie66 Edward Clary
 - 👀 I’m interested in cooking, all kinds of sports on telly and music.
 - 🌱 I’m currently learning Web Development.
 - 📫 Get in touch by email edwardclary@gmail.com or just ask for my number.
