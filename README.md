@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NiceGuyEddie66 Edward Clary
+- 👋 Hi, I’m Edward Clary, 38 years old and Franco British.
 - 👀 I’m interested in cooking, all kinds of sports on telly and music.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development, Ruby, CSS, JS, HTML...
 - 📫 Get in touch by email edwardclary@gmail.com or just ask for my number.
 
 <!---
